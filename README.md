@@ -4,5 +4,4 @@
     <li>C/C++</li>
     <li>Java</li>
     <li>Python</li>
-    <li>JS/TS</li>
 </ul>
